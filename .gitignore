@@ -1,3 +1,8 @@
+# CUSTOM
+*.sdf
+buildtemp/
+*.lib
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
